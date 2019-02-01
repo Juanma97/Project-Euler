@@ -1,0 +1,2 @@
+public class projectEuler1 {
+}
